@@ -1,0 +1,90 @@
+body {
+
+    background-color: darkgray;
+  
+}
+h1 {
+    background-color: dodgerblue;
+    text-align: center;
+    border-radius: 15px;
+    padding: 10 px;
+}
+.tudo{
+    width: 60%;
+    margin: 0 auto; 
+    padding: 30px 30px 30px 30px;
+    border: solid 1px #000;
+}
+img{
+    max-width: 100px;
+    max-height: 200px;
+    border-radius: 35%;
+}
+#foto{
+    width: 20%;
+    float: left;
+}
+#dados{
+    width: 80%;
+    float: left;
+    padding-top: 15px;
+}
+.linha{
+    clear: both;
+}
+.fonteDados{
+    color: dodgerblue;
+    font-weight: bolder;
+    padding-top: 10px;
+    
+}
+h2{
+
+}
+hr{
+    border-color: dodgerblue;
+}
+h4 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+h3{
+    margin-bottom: 0px;
+}
+#coluna1{
+float: left;
+width: 47%;
+padding-right: 20px;
+}
+#coluna2{
+float: left;
+width: 1px;
+height: 400px;
+background-color:dodgerblue;
+margin-top: 20px;
+}
+#coluna3{
+float: left;
+width: 47%;
+padding-left: 20px;
+}
+.habilidade{
+    clear: both;
+}
+.tituloHabilidade{
+ float: left;
+}
+.circulo{
+width: 12px;
+height: 12px;
+background-color: dodgerblue;
+float: right;
+border-radius: 50% ;
+margin-left: 10px;
+}
+.itens{
+    float: left;
+    margin-bottom: 0px ;
+    margin-top: 0px ;
+    padding-top: 10px;
+}

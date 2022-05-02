@@ -1,0 +1,119 @@
+*{
+    margin: 0 auto;
+}
+body{
+background-color: #e2e2e2;
+}
+h3{
+    margin-top: 10px;
+}
+table, td, th{
+border-collapse: collapse;
+padding: 7px 7px 7px 7px;
+}
+.divTudo{
+font-family: Arial, sans-serif;
+}
+.divLinha{
+clear: both;
+}
+#divCabecalho{
+    background-color: #162e58;
+    min-height: 100px;
+    padding: 25px;
+}
+#TituloC{
+color: #fff;
+font-size: 20px;
+float: left;
+}
+#divClassificacao{
+    background-color: #fff;
+    width: 60%;
+}
+.tableClassificação{
+    width: 100%;
+}
+#divGoleadores{
+    background-color: #fff;
+    width: 60%;
+}
+#tableGoleadores{
+    width: 100%;
+}
+#divJogos{
+    background-color: #fff;
+    width: 60%;
+    padding-bottom: 60px;
+}
+#tableJogos{
+    width: 100%;
+    text-align: left;
+}
+.thnomeClube{
+width: 50%;
+text-align: left;
+}
+.thUltimascinco{
+width: 20%;
+}
+th{
+    color: darkgrey;
+    font-size: 15px;
+    font-weight: normal;
+}
+.Clube{
+    width: 20px;
+}
+.nomeClube{
+text-align: left;
+}
+.divVit{
+background-image: url(../img/img/v.svg);
+background-repeat: no-repeat;
+height: 16px;
+width: 16px;
+float: right;
+margin-right: 4px;
+}
+.divEmp{
+background-image: url(../img/img/e.svg);
+background-repeat: no-repeat;
+height: 16px;
+width: 16px;
+float: right;
+margin-right: 4px;
+}
+.divDer{
+    background-image: url(../img/img/d.svg);
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: right;
+    margin-right: 4px;
+}
+.tituloGoleadores{
+text-align: left;
+}
+.spanClube{
+    color: darkgray;
+    font-size: 12px;
+}
+.tdJogador{
+    text-align: left;
+    width: 90%;
+}
+.thJogador{
+    text-align: left;
+}
+#tableGoleadores{
+width: 100%;
+background-color: #fff;
+}
+#tableGoleadores td{
+padding: 15px 7px 7px 7px;
+}
+.tableJogo{
+    width: 80%;
+
+}
